@@ -6,6 +6,7 @@ public class Main {
         System.out.print("My Second commit to GitHub!");
         System.out.print("Random Text");
         System.out.print("One more print");
+         System.out.print("Git practice");
     }
 }
 //////
